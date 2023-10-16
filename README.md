@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F81F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Morilha;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F81F7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Morilha)](https://git.io/typing-svg)
 
 <h3 align="center">Estudante de Engenharia de Software</h3>
 
