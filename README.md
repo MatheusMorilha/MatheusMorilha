@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F81F7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Morilha)](https://git.io/typing-svg)
 
 <h3 align="center">Acadêmico de Engenharia de Software</h3>
-<h1>align="center">Estudante de Eng. de Software</h1>
+<h1 align="center" style="color: red">Estudante de Eng. de Software</h1>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusMorilha&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=003BA2&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Morilha github stats" /> 
